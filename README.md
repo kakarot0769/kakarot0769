@@ -129,37 +129,7 @@ Focus: Build → Learn → Improve → Repeat 🚀
 </tr>
 </table>
 
-📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kakarot0769&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakarot0769&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=kakarot0769&hide_border=true&theme=tokyonight" alt="GitHub Contribution Streak"/>
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kakarot0769&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kakarot0769&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-</div>
 
 🐍 Contribution Snake
 
