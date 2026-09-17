@@ -23,7 +23,7 @@ Electronics & Computer Science • Full-Stack Developer • Creative Technologis
   <a href="https://www.linkedin.com/in/voidfx">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/c/voidfx.creates">
+  <a href="https://www.youtube.com/@voidfx.creates">
     <img src="https://img.shields.io/badge/YouTube-VOIDFX-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
   </a>
 </p>
