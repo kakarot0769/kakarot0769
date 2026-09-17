@@ -2,7 +2,7 @@
 
 👋 Hey, I'm Rahul Kumar Shaw
 
-Electronics & Computer Science • Full-Stack Developer • Creative Technologist 🎯
+Electronics & Computer Science • Full-Stack Developer • Creative Technologist🎯
 
 <p>
   <a href="https://github.com/kakarot0769">
