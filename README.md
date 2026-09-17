@@ -32,9 +32,9 @@ Electronics & Computer Science • Full-Stack Developer • Creative Technologis
 
 🧑‍💻 About Me
 
-🎓  Electronics & Computer Science undergraduate
+🎓  B.Tech in Electronics & Computer Science undergraduate
 💻  Building toward full-stack development
-🎨  Video editor + content creator at VOIDFX
+🎨  Video editor + content creator at SamarthTMSL
 🚀  Interested in products, web apps, backend systems & creative technology
 🌱  Currently learning: Full-Stack Development + Content Creation
 🤝  Open to: Collaborations, interesting projects & learning opportunities
