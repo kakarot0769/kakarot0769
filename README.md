@@ -87,7 +87,7 @@ A typing-focused project I'm currently working on.
 
 Focus: Web Development • UI • Interactive Experiences
 
-🔗 View Repository
+🔗 View Repository - https://github.com/kakarot0769/TypeRush
 
 </td>
 <td width="50%">
@@ -98,7 +98,7 @@ A student-focused platform concept for organized MAKAUT engineering resources, n
 
 Focus: EdTech • Web Development • Student Productivity
 
-🔗 Visit SemesterX
+🔗 Visit SemesterX - https://semesterx.vercel.app/
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ My creative portfolio for video editing, cinematography and visual storytelling.
 
 Focus: Video Editing • Motion Graphics • Creative Branding
 
-🔗 Open Portfolio
+🔗 Open Portfolio - https://voidfxportfolio.vercel.app/
 
 </td>
 <td width="50%">
@@ -123,7 +123,7 @@ I'm continuously experimenting with web apps, backend systems, college projects 
 
 Focus: Build → Learn → Improve → Repeat 🚀
 
-🔗 Explore All Repositories
+🔗 Explore All Repositories - https://github.com/kakarot0769
 
 </td>
 </tr>
