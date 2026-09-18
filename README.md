@@ -133,13 +133,9 @@ Focus: Build → Learn → Improve → Repeat 🚀
 
 🐍 Contribution Snake
 
-<div align="center">
-
-<!-- This section becomes active after the GitHub Action below is added. -->
-
-<img src="https://raw.githubusercontent.com/kakarot0769/kakarot0769/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<p> align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 🔥 Coding & Learning Philosophy
 
